@@ -124,23 +124,23 @@ section {
 
 /* Background Images */
 .section-a {
-    background-image: url('/img/screen.jpg');
+    background-image: url('../img/screen.jpg');
 }
 
 .section-b {
-    background-image: url('/img/section-b.webp');
+    background-image: url('../img/section-b.webp');
 }
 
 .section-c {
-    background-image: url('/img/section-c.webp');
+    background-image: url('../img/section-c.webp');
 }
 
 .section-d {
-    background-image: url('/img/section-e.webp');
+    background-image: url('../img/section-e.webp');
 }
 
 .section-e {
-    background-image: url('/img/section-f.webp');
+    background-image: url('../img/section-f.webp');
 }
 
 .btn {
